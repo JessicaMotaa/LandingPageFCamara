@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background: #fff;
+}
+
+.secao_principal{
+    margin-top: 50px;
+    text-align: center;
+    color: #FC6027;
+    width: 250px;
+    height: 40px;
+    padding: 20px;
+    margin: 20px auto;
+    box-shadow: 0px 0px 10px 2px #FC6027;
+    border-radius: 50px;
+    font-size: 21px;
+}
+.textoprincipal{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fc6027;
+}
+#tituloprincipal{
+    text-align: center;
+    margin: 0px auto; 
+}
+.box{
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 10px 2px #FC6027;
+    color: #000;
+    border-radius: 50px;
+    font-size: 19px;
+}
+#titulo{
+    color: #FC6027;
+    text-align: center;
+}
+#lista{
+    margin: 20px 20px;
+    line-height: 25px;
+}
+.rodape{
+    text-align: center;
+}
